@@ -1,4 +1,4 @@
-# ElectricalStimulation
+# CreatineGuanfacine
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ScreenNeuroPharm/CreatineGuanfacine/blob/master/LICENSE)
 
