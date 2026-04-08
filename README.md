@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ScreenNeuroPharm/CreatineGuanfacine/blob/master/LICENSE)
 
-> The repository contains the data and the functions need to reproduce the analysis reported in the article "Stimulus-evoked activity modulation of in vitro engineered cortical and hippocampal networks ".
+> The repository contains the data and the functions need to reproduce the analysis reported in the article "Guanfacine Potentiates SLC6A8-Mediated Creatine Uptake and Modulates Neuroglial Network Function ".
 
 ## Details
 All uploaded scripts work with a .mat format. 
